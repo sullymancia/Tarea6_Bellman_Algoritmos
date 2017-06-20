@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1497469138 source:c:\users\sully mancia\documents\clases\analisisdealgoritmos\segundoparcial\tarea6_bellman_algoritmos\bellman_ford\test.cpp
+	"Test.h"
+
+1497469138 c:\users\sully mancia\documents\clases\analisisdealgoritmos\segundoparcial\tarea6_bellman_algoritmos\bellman_ford\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1497987799 source:c:\users\sully mancia\documents\clases\analisisdealgoritmos\segundoparcial\tarea6_bellman_algoritmos\bellman_ford\main.cpp
+	"Test.h"
+	<iostream>
+
